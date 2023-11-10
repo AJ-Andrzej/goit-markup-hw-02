@@ -1,0 +1,13 @@
+button{
+    cursor: pointer;
+}
+.link{
+text-decoration: none;
+}
+.list{
+    list-style-type: none;
+}
+body{
+    font-family: 'Roboto',
+        sans-serif;
+}
