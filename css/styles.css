@@ -42,7 +42,7 @@ font-style: normal;
     color:#404BBF;
 }
 .contact-link{
-    /* color: #434455; */
+    color: #434455;
     /* font-size: 16px; */
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -121,4 +121,7 @@ p{
 }
 .studio-footer{
     color: #f4f4fd;
+}
+.text-footer{
+    color: #F4F4FD;
 }
